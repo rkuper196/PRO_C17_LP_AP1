@@ -79,7 +79,7 @@ function draw() {
   
   background(180);
   //exibir pontuação
-  text("Score: "+ score, 500,50);
+  text("Pontuação: "+ score, 500,50);
   
   
   if(gameState === PLAY){
